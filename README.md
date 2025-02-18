@@ -1,4 +1,5 @@
 
+# **This is a system generated README file**
 # Project Setup Automation with Gradle Plugin
 
 This project provides a custom **Gradle plugin** that automates the following tasks for your Gradle-based projects:
