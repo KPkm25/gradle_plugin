@@ -27,7 +27,7 @@ To use this plugin in your Gradle project, follow these steps:
 
    Add the following code to your project’s `build.gradle` file:
 
-   ```
+```
 groovy plugins { id 'com.example.gradle.customPlugin'}
 
 ``` 
